@@ -50,7 +50,3 @@ This will run the socket.io server at 5000 port
 
 6. Now You can see all the posts, comments and you can create a post by clicking on Plus (+) Icon at bottom right corner.
 
-
-![](./screenshot.png)
-
-![](./comments.png)
